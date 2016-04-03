@@ -8,7 +8,7 @@ I got really annoyed with the number of power bricks (or wall-warts)
 that were required power my astrophotography setup:
 
 * **LX200** 18V power supply. 
-* **SBIG ST8300C** 12 power supply.
+* **SBIG ST8300C** 12V power supply.
 * **Field DeRotator** 9V power supply.
 * **Dew Heater** 5V power supply.
 * **Flat field box** 9V power supply.
