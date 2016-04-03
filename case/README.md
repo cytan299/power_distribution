@@ -5,8 +5,8 @@
 ![3D Case View 2](https://github.com/cytan299/power_distribution/blob/master/pics/IMG_2698.jpg)
 
 This is the 3D case that I designed for the power distribution. The
-source code for generating the case is written in OpenScad and saved
-in *3D_case.scad*. 
+source code for generating the case is written in
+[OpenScad](http://www.openscad.org) and saved in *3D_case.scad*.
 
 The file *3D_case.stl* file can be uploaded to [Shapeways](http://www.shapeways.com) for manufacture. The material that I used is
 

@@ -61,7 +61,7 @@ Have fun!
 
 * **case** The case design for the power distribution unit. It
   consists of a 3D STL file for the box and a SVG file for the
-  cover. Source code for generating the 3D STL file in OpenScad format
+  cover. Source code for generating the 3D STL file in [OpenScad](http://www.openscad.org) format
   is included.
 * **bom** Bill of materials for 1 power distribution unit.
 * **eagle** Eagle schematic and board files.
