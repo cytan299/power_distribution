@@ -30,6 +30,8 @@ The power distribution unit is powered by a
 
 * External 240W 19.5V slim PA-9E PC supply.
 
+![Plex](https://github.com/cytan299/power_distribution/blob/master/pics/IMG_2711.jpg)
+
 The 19.5V from the above supply is connected to an internal
 PLEX 165W ATX DC power supply. The 5V and 12V supplies come directly from
 the PLEX. The other 9V is linearly regulated from the 12V and the 15V
