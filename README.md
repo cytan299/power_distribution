@@ -2,12 +2,12 @@
 
 by C.Y. Tan 2016
 
-![Power Distribution Unit](https://github.com/cytan299/power_distribution/blob/master/power_distribution/pics/power_distribution.png)
+![Power Distribution Unit](https://github.com/cytan299/power_distribution/blob/master/pics/IMG_2708.jpg)
 
 I got really annoyed with the number of power bricks (or wall-warts)
-that were required power:
+that were required power my astrophotography setup:
 
-* **LX200** 15V power supply. I reduced the voltage from 18V to 15V.
+* **LX200** 18V power supply. 
 * **SBIG ST8300C** 12 power supply.
 * **Field DeRotator** 9V power supply.
 * **Dew Heater** 5V power supply.
@@ -39,7 +39,11 @@ outlets are listed below:
 * Three 5V outlets
 * Three 12V outlets
 * Two 9 V outlets
-* One 15 V outlet
+* One 15 V outlet. I used this to power my LX200 classic. Although the
+  front panel says that the voltage should be 18V, sources on the [web](http://www.skymtn.com/mapug-astronomy/MAPUG/Battery1.htm#anchor318436)
+  recommend that a lower voltage be used to power it. Therefore I have
+  reduced the voltage from 18V to 15V. Note: I was really shocked to
+  measure >20V coming out from the Meade power supply for my LX200!
 
 ## Support
 
