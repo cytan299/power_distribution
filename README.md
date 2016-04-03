@@ -33,7 +33,7 @@ The power distribution unit is powered by a
 ![Plex](https://github.com/cytan299/power_distribution/blob/master/pics/IMG_2711.jpg)
 
 The 19.5V from the above supply is connected to an internal fanless
-[HDPLEX 165W ATX DC power supply](http://www.amazon.com/HDPLEX-DC-ATX-Power-Supply-16V-24V/dp/B00KVWHUXW?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00). The 5V and 12V supplies come directly from
+[HDPLEX 160W ATX DC power supply](http://www.amazon.com/HDPLEX-DC-ATX-Power-Supply-16V-24V/dp/B00KVWHUXW?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00). The 5V and 12V supplies come directly from
 the PLEX. The other 9V is linearly regulated from the 12V and the 15V
 is linearly regulated from the 19.5V input voltage. The available voltage
 outlets are listed below:
