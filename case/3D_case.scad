@@ -10,13 +10,13 @@
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    derot is distributed in the hope that it will be useful,
+    3D_case is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with derot.  If not, see <http://www.gnu.org/licenses/>.
+    along with 3D_case.  If not, see <http://www.gnu.org/licenses/>.
 
 */
 $fn=100;
